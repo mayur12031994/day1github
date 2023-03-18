@@ -4,4 +4,8 @@ publiv class abcd
 {
  System.out.println("hiiii");
 }
+ pubkic void m2()
+{
+ System.out.println("hello");
+}
 }
