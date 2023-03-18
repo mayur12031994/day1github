@@ -6,3 +6,5 @@ good night
 bug1
 good morning
 hiiii
+ good morning
+ good night
